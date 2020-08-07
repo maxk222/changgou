@@ -1,0 +1,12 @@
+com\maxkkk\goods\entity\CategoryBrand.class
+com\maxkkk\goods\entity\Spu.class
+com\maxkkk\goods\entity\Album.class
+com\maxkkk\goods\entity\Brand.class
+com\maxkkk\goods\entity\Goods.class
+com\maxkkk\goods\entity\Spec.class
+com\maxkkk\goods\entity\Sku.class
+com\maxkkk\goods\entity\Category.class
+com\maxkkk\goods\entity\Pref.class
+com\maxkkk\goods\entity\StockBack.class
+com\maxkkk\goods\entity\Template.class
+com\maxkkk\goods\entity\Para.class

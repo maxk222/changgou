@@ -1,0 +1,6 @@
+com\maxkkk\service\BrandService.class
+com\maxkkk\Main.class
+com\maxkkk\controller\BaseExceptionHandler.class
+com\maxkkk\controller\BrandController.class
+com\maxkkk\dao\BrandMapper.class
+com\maxkkk\service\impl\BrandServiceImpl.class

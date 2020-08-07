@@ -1,0 +1,14 @@
+server:
+  port: 18081
+spring:
+  application:
+    name: goods
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://120.79.128.143:3306/changgou_goods?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=Asia/Shanghai
+    username: root
+    password: 1231234a
+  cloud:
+    nacos:
+      discovery: 
+        server-addr: 120.79.128.143:8848
